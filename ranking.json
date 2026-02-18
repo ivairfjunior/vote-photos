@@ -1,12 +1,32 @@
 {
-  "https://preview.redd.it/iniciante-como-dar-sentido-a-fotos-de-paisagens-urbanas-v0-wbly4jcq8rlf1.jpg?width=1080&crop=smart&auto=webp&s=3d8e51a913cd6f7562b7c83358a490e47f0a95a7": 3,
-  "https://preview.redd.it/iniciante-como-dar-sentido-a-fotos-de-paisagens-urbanas-v0-tfbbqilq8rlf1.jpg?width=1080&crop=smart&auto=webp&s=10790b1e306965c0fd19d804325f620edf164add": 10,
-  "https://preview.redd.it/fotos-tiradas-com-minha-primeira-c%C3%A2mera-nikon-d3200-quero-v0-6p0j8ec30phg1.jpg?width=1080&crop=smart&auto=webp&s=fee3e9066d64aa93d2c96a95b5b581e0f94d225d": 5,
-  "https://preview.redd.it/fotos-tiradas-com-minha-primeira-c%C3%A2mera-nikon-d3200-quero-v0-1njvchj30phg1.jpg?width=1080&crop=smart&auto=webp&s=df7f6b32428381bb36b33c99aef39e262330b072": 5,
-  "https://preview.redd.it/fotos-tiradas-com-minha-primeira-c%C3%A2mera-nikon-d3200-quero-v0-gwtgvdp30phg1.jpg?width=1080&crop=smart&auto=webp&s=0450aeac66931e57cc191ac2c617dd14428d9cdf": 9,
-  "https://preview.redd.it/fotos-tiradas-com-minha-primeira-c%C3%A2mera-nikon-d3200-quero-v0-mxjdywu30phg1.jpg?width=1080&crop=smart&auto=webp&s=9b88c3fc3c96a4f096682710042f0da80f3165eb": 2,
-  "https://preview.redd.it/fotos-tiradas-com-minha-primeira-c%C3%A2mera-nikon-d3200-quero-v0-p1iouaa40phg1.jpg?width=1080&crop=smart&auto=webp&s=2e1376fac8f50dc16605e042aadb98e8eb6ac05c": 3,
-  "https://preview.redd.it/fotos-tiradas-com-minha-primeira-c%C3%A2mera-nikon-d3200-quero-v0-4ull9ju40phg1.jpg?width=1080&crop=smart&auto=webp&s=b412f1951b218d4317712c5d43e9baaedb6f8297": 6,
-  "https://preview.redd.it/fotos-tiradas-com-minha-primeira-c%C3%A2mera-nikon-d3200-quero-v0-sek50ze50phg1.jpg?width=1080&crop=smart&auto=webp&s=84a3d406fe3eb471d36c2b2f3f57f64d1f946101": 5,
-  "https://preview.redd.it/fotos-tiradas-com-minha-primeira-c%C3%A2mera-nikon-d3200-quero-v0-c2996aj50phg1.jpg?width=1080&crop=smart&auto=webp&s=edd113c571af8421345031517e8e42f39d56eb31": 2
+  "https://preview.redd.it/natureza-exuberante-v0-pfu50exc59jg1.jpg?width=1080&crop=smart&auto=webp&s=1489b29eccfca8372721fea2876de62bb724c210": {
+    "elo": 1012,
+    "titulo": "Nature",
+    "autor": "Ivair"
+  },
+  "https://preview.redd.it/natureza-exuberante-v0-ddg1yabd59jg1.jpg?width=1080&crop=smart&auto=webp&s=9d64df8a592224ce0e0ac592fd4f267166f96915": {
+    "elo": 888,
+    "titulo": "Folhas",
+    "autor": "Ivair"
+  },
+  "https://preview.redd.it/natureza-exuberante-v0-9ueyg2o969jg1.jpg?width=1080&crop=smart&auto=webp&s=b293c9f1af229da6fe8d1253b6b98f0222e12dcb": {
+    "elo": 1010,
+    "titulo": "Correnteza",
+    "autor": "Ivair"
+  },
+  "https://i.redd.it/92lt3uqp1ocg1.jpeg": {
+    "elo": 1091,
+    "titulo": "Vila na Roça",
+    "autor": "Ivair"
+  },
+  "https://preview.redd.it/amo-natureza-v0-9pxv6abockeg1.jpg?width=1080&crop=smart&auto=webp&s=c739d47409bdb5106ac88a0e1e1d8b5efd273bac": {
+    "elo": 933,
+    "titulo": "Arvores",
+    "autor": "Ivair"
+  },
+  "https://i.redd.it/3zoxpbnipxjg1.jpeg": {
+    "elo": 1066,
+    "titulo": "Rio",
+    "autor": "Ivair"
+  }
 }
